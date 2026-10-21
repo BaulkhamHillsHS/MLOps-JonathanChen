@@ -40,7 +40,7 @@
         "workbench.colorTheme": "Default Dark+",
         "workbench.iconTheme": "vscode-icons",
         "github.copilot.enable": {
-          "*": true,
+          "*": false,
           "python": false,
           "html": false,
           "css": false,
